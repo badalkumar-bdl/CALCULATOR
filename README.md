@@ -122,8 +122,8 @@ Feel free to fork this project, suggest improvements, or open issues.
 
 ## 🔗 Connect
 
-- GitHub: [YourUsername](https://github.com/your-username)  
-- Repository: [basic-python-calculator](https://github.com/your-username/basic-python-calculator)
+- GitHub: [badalkumar-bdl](https://github.com/badalkumar-bdl)  
+- Repository: [basic-python-calculator](https://github.com/badalkumar-bdl/basic-python-calculator)
 
 ---
 
